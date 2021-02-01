@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+w6gD2PirdrxEiDFo29U2q+QRWqEcfksqaLz4HjXK4DbnPuHNMuaiL9U22RzZhBWt/s7MoQq1+fwuerj5d0grA==",
+  "success": true,
+  "projectFilePath": "C:\\Work\\GPS\\Samples\\AspNetCoreRequestResponseMiddlewareDemo\\TrafficLogger\\TrafficLogger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sburtoiu\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
