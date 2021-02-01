@@ -1,11 +1,6 @@
 C:\Work\GPS\Samples\AspNetCoreRequestResponseMiddlewareDemo\TrafficLogger\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Work\GPS\Samples\AspNetCoreRequestResponseMiddlewareDemo\TrafficLogger\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Work\GPS\Samples\AspNetCoreRequestResponseMiddlewareDemo\TrafficLogger\bin\Debug\netcoreapp3.1\TrafficLogger.exe
-C:\Work\GPS\Samples\AspNetCoreRequestResponseMiddlewareDemo\TrafficLogger\bin\Debug\netcoreapp3.1\TrafficLogger.deps.json
-C:\Work\GPS\Samples\AspNetCoreRequestResponseMiddlewareDemo\TrafficLogger\bin\Debug\netcoreapp3.1\TrafficLogger.runtimeconfig.json
-C:\Work\GPS\Samples\AspNetCoreRequestResponseMiddlewareDemo\TrafficLogger\bin\Debug\netcoreapp3.1\TrafficLogger.runtimeconfig.dev.json
-C:\Work\GPS\Samples\AspNetCoreRequestResponseMiddlewareDemo\TrafficLogger\bin\Debug\netcoreapp3.1\TrafficLogger.dll
-C:\Work\GPS\Samples\AspNetCoreRequestResponseMiddlewareDemo\TrafficLogger\bin\Debug\netcoreapp3.1\TrafficLogger.pdb
 C:\Work\GPS\Samples\AspNetCoreRequestResponseMiddlewareDemo\TrafficLogger\obj\Debug\netcoreapp3.1\TrafficLogger.csprojAssemblyReference.cache
 C:\Work\GPS\Samples\AspNetCoreRequestResponseMiddlewareDemo\TrafficLogger\obj\Debug\netcoreapp3.1\TrafficLogger.AssemblyInfoInputs.cache
 C:\Work\GPS\Samples\AspNetCoreRequestResponseMiddlewareDemo\TrafficLogger\obj\Debug\netcoreapp3.1\TrafficLogger.AssemblyInfo.cs
@@ -17,4 +12,9 @@ C:\Work\GPS\Samples\AspNetCoreRequestResponseMiddlewareDemo\TrafficLogger\obj\De
 C:\Work\GPS\Samples\AspNetCoreRequestResponseMiddlewareDemo\TrafficLogger\obj\Debug\netcoreapp3.1\TrafficLogger.RazorTargetAssemblyInfo.cache
 C:\Work\GPS\Samples\AspNetCoreRequestResponseMiddlewareDemo\TrafficLogger\obj\Debug\netcoreapp3.1\TrafficLogger.dll
 C:\Work\GPS\Samples\AspNetCoreRequestResponseMiddlewareDemo\TrafficLogger\obj\Debug\netcoreapp3.1\TrafficLogger.pdb
+C:\Work\GPS\Samples\AspNetCoreRequestResponseMiddlewareDemo\TrafficLogger\bin\Debug\netcoreapp3.1\TrafficLogger.deps.json
+C:\Work\GPS\Samples\AspNetCoreRequestResponseMiddlewareDemo\TrafficLogger\bin\Debug\netcoreapp3.1\TrafficLogger.runtimeconfig.json
+C:\Work\GPS\Samples\AspNetCoreRequestResponseMiddlewareDemo\TrafficLogger\bin\Debug\netcoreapp3.1\TrafficLogger.runtimeconfig.dev.json
+C:\Work\GPS\Samples\AspNetCoreRequestResponseMiddlewareDemo\TrafficLogger\bin\Debug\netcoreapp3.1\TrafficLogger.dll
+C:\Work\GPS\Samples\AspNetCoreRequestResponseMiddlewareDemo\TrafficLogger\bin\Debug\netcoreapp3.1\TrafficLogger.pdb
 C:\Work\GPS\Samples\AspNetCoreRequestResponseMiddlewareDemo\TrafficLogger\obj\Debug\netcoreapp3.1\TrafficLogger.genruntimeconfig.cache
