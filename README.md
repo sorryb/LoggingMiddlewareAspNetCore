@@ -1,4 +1,3 @@
-# AspNetCoreRequestResponseMiddlewareDemo
-This repository demonstrates a method by which we can use ASP.NET Core Middleware to record requests and responses. It is used in the following blog post:
+# Logging Middleware: use a middleware in ASP.NET Core 3.1 to log all response and all requests
 
-* [Using Middleware in ASP.NET Core to Log Requests and Responses](https://exceptionnotfound.net/using-middleware-to-log-requests-and-responses-in-asp-net-core/)
+Start from this: https://devblogs.microsoft.com/aspnet/re-reading-asp-net-core-request-bodies-with-enablebuffering/
